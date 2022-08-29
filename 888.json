@@ -1,5 +1,8 @@
 {
   "spider":"https://raw.githubusercontent.com/chou6159/z/main/top94.jar",
+  
+  "spider":"https://gitea.com/Pandora2277/Box/src/commit/66c531bb6588af69ac8dcd43bedb93514007fc34/custom_spider.jar",
+  
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
